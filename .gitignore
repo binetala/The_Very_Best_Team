@@ -1,3 +1,6 @@
+#hide keys
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +8,10 @@ __pycache__/
 
 # C extensions
 *.so
+
+# API and Config Files
+config.py
+api_keys.py
 
 # Distribution / packaging
 .Python
