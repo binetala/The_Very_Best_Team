@@ -12,10 +12,10 @@ We shared a general curiosity about what factors drive real estate prices up or 
 
 The Zillow data set led us to focus on QUESTIONS about home value, sales price, inventory and days-to-sell. The key Indicator ID’s that will be in the scripts are summarized as follows:
 
-**ZALL** - Zillow Home Value Index for all homes
-**ISAM** - For Sale Inventory (number of listings on the market)
-**NSAM** - Median days to pending (median number of days a listing is on the market)
-**SSAM** - Median sale price (median value for listings that sold)
+    **ZALL** - Zillow Home Value Index for all homes
+    **ISAM** - For Sale Inventory (number of listings on the market)
+    **NSAM** - Median days to pending (median number of days a listing is on the market)
+    **SSAM** - Median sale price (median value for listings that sold)
  
 We added additional datasets to evaluate or HYPOTHESES about prospective drivers in the residential real estate market:
 
